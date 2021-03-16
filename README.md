@@ -1,3 +1,3 @@
 # branching_proj
 
-### THis is a project
+### THis is a project for branching.
